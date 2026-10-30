@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-freight-accessorial-detention-layover-auditor-skill",
+  "version": "1.0.0",
+  "title": "Truckload Freight Accessorial Detention & Layover Fee Auditor Skill",
+  "category": "Agentic Commerce (Logistics / Freight Auditing)",
+  "description": "Audits GPS geofence telematics timestamps against carrier detention/layover invoices, enforces standard 2-hour free time window, and disputes unsubstantiated carrier surcharge claims.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "audit_freight_detention_layover"
+  ],
+  "dependencies": []
+}
